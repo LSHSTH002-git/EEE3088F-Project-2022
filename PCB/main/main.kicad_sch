@@ -1910,8 +1910,8 @@
     (path "/" (page "1"))
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa" (page "2"))
     (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9" (page "3"))
-    (path "/6faa355f-9d08-4dfa-b3e6-58b461b2063e" (page "5"))
     (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3" (page "5"))
+    (path "/6faa355f-9d08-4dfa-b3e6-58b461b2063e" (page "5"))
   )
 
   (symbol_instances
@@ -1963,6 +1963,18 @@
     (path "/92adc2a7-705f-4e7b-90a7-1c91d9f5977d"
       (reference "#PWR016") (unit 1) (value "GND") (footprint "")
     )
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/573df38a-bab0-4b52-bd6f-f011e8f92ff2"
+      (reference "#PWR017") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/7dc8b720-4317-4265-bb3f-b22702c49c37"
+      (reference "#PWR018") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/ee6f2d1e-fec5-42a4-93bb-12f31e80cedb"
+      (reference "C1") (unit 1) (value "1uF") (footprint "")
+    )
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/ccb01023-5167-4550-bdf3-9f5d286db7e2"
+      (reference "C2") (unit 1) (value "1uF") (footprint "")
+    )
     (path "/ae3c331f-8808-430e-931c-7d9b2cc37f5b"
       (reference "J1") (unit 1) (value "Conn_01x33_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x33_P2.54mm_Vertical")
     )
@@ -1974,6 +1986,39 @@
     )
     (path "/39549a53-fe72-4509-a12d-de170bbf0433"
       (reference "J4") (unit 1) (value "Conn_01x33_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x33_P2.54mm_Vertical")
+    )
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/2f35d2a7-59cc-47bb-a788-112639f28595"
+      (reference "R1") (unit 1) (value "1k") (footprint "")
+    )
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/4fba1e99-e08b-47c0-9ce0-f764d18c14d8"
+      (reference "R2") (unit 1) (value "1k") (footprint "")
+    )
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/570c08b7-65b3-4f7d-b8f4-cb2cd16d0486"
+      (reference "R3") (unit 1) (value "1k") (footprint "")
+    )
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/4db0010a-0a7a-4b84-908a-9852e2bca467"
+      (reference "R4") (unit 1) (value "1k") (footprint "")
+    )
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/6ad55953-7a86-4bfb-a23b-dcf3a404bbd3"
+      (reference "R5") (unit 1) (value "1k") (footprint "")
+    )
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/7dfc6478-57f4-47ac-8a3f-dbe3d9ff5e59"
+      (reference "R6") (unit 1) (value "1k") (footprint "")
+    )
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/8abb2eaa-2ddc-4067-881a-3444f162f5ca"
+      (reference "U1") (unit 1) (value "LTR-303ALS-01") (footprint "OptoDevice:Lite-On_LTR-303ALS-01")
+    )
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/aa278a0d-9aaa-400e-a711-4ffb24eae2b6"
+      (reference "U2") (unit 1) (value "LTR-303ALS-01") (footprint "OptoDevice:Lite-On_LTR-303ALS-01")
+    )
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/c5e0f43a-ae71-4675-9b05-bf6d7eaec69c"
+      (reference "U3") (unit 1) (value "4011") (footprint "")
+    )
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/e7d51f6e-827f-46b1-9000-d82927f2da13"
+      (reference "U3") (unit 2) (value "4011") (footprint "")
+    )
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/05fb52a7-bc0e-474b-9b21-8152bc059402"
+      (reference "U3") (unit 3) (value "4011") (footprint "")
     )
   )
 )
