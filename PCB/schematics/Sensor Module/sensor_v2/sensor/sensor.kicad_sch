@@ -1086,7 +1086,7 @@
     (property "Value" "AC0402FR-07536KL" (id 1) (at 41.91 54.61 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "RESC1005X37N" (id 2) (at 40.64 67.31 0)
+    (property "Footprint" "SamacSys_Parts:RESC1005X37N" (id 2) (at 40.64 67.31 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-AC_51_RoHS_L_8.pdf" (id 3) (at 38.1 67.31 0)
@@ -1494,7 +1494,7 @@
     (property "Value" "AC0402FR-07536KL" (id 1) (at 72.39 54.61 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "RESC1005X37N" (id 2) (at 71.12 67.31 0)
+    (property "Footprint" "SamacSys_Parts:RESC1005X37N" (id 2) (at 71.12 67.31 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-AC_51_RoHS_L_8.pdf" (id 3) (at 68.58 67.31 0)
@@ -1582,7 +1582,7 @@
       (reference "R1") (unit 1) (value "RC0603FR-071KL") (footprint "SamacSys_Parts:RESC1608X55N")
     )
     (path "/37e3261b-9024-456f-a221-bcee5df13b69"
-      (reference "R2") (unit 1) (value "AC0402FR-07536KL") (footprint "RESC1005X37N")
+      (reference "R2") (unit 1) (value "AC0402FR-07536KL") (footprint "SamacSys_Parts:RESC1005X37N")
     )
     (path "/34f8072e-a97c-4e50-b86e-e7df6cc8f24f"
       (reference "R3") (unit 1) (value "RC0603FR-071KL") (footprint "SamacSys_Parts:RESC1608X55N")
@@ -1594,7 +1594,7 @@
       (reference "R5") (unit 1) (value "RC0603FR-071KL") (footprint "SamacSys_Parts:RESC1608X55N")
     )
     (path "/f15e0257-89c9-462e-b81a-9b2f34f90520"
-      (reference "R6") (unit 1) (value "AC0402FR-07536KL") (footprint "RESC1005X37N")
+      (reference "R6") (unit 1) (value "AC0402FR-07536KL") (footprint "SamacSys_Parts:RESC1005X37N")
     )
   )
 )
