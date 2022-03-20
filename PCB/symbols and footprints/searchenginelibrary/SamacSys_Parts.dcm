@@ -1,0 +1,69 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP EL5171ISZ-T7
+D Differential Amplifiers 250MHz Differential Twisted-Pair Drivers
+K
+F https://www.renesas.com/en-us/www/doc/datasheet/el5171-371.pdf
+$ENDCMP
+#
+$CMP ERJ3GEY0R00V
+D Panasonic ERJ3G Series Thick Film Surface Mount Fixed Resistor 603 Case 0
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-1/sf-00039130.pdf
+$ENDCMP
+#
+$CMP LM358DT
+D LM358DT, Dual Operational Amplifier 1.1MHz 5 to 28V, 8-Pin SO
+K
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000464.pdf
+$ENDCMP
+#
+$CMP RC0603FR-071KL
+D GENERAL PURPOSE CHIP RESISTORS
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/902f9e387b938f871d31120f5fc1d65e.pdf
+$ENDCMP
+#
+$CMP CR0805-FX-5110ELF
+D Thick Film Resistors - SMD 511ohm 1%
+K
+F https://www.bourns.com/pdfs/chpreztr.pdf
+$ENDCMP
+#
+$CMP AC0402FR-07536KL
+D Thick Film Resistors - SMD 1/16W 536K ohm 1% AEC-Q200
+K
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-AC_51_RoHS_L_8.pdf
+$ENDCMP
+#
+$CMP AC0402JR-0750RL
+D Thick Film Resistors - SMD 1/16W 50ohm 5% AEC-Q200
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/9c9982b5f9d8b10ce9b597e40b391084.pdf
+$ENDCMP
+#
+$CMP GRM1555C1H5R1BA01D
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT 0402 5.1pF 50volts C0G +/-0.1pF
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/ec4f1577dddcc7a13ddad897a28002d3.pdf
+$ENDCMP
+#
+$CMP RC0603JR-0710KL
+D YAGEO (PHYCOMP) - RC0603JR-0710KL - RES, THICK FILM, 10K, 5%, 0.1W, 0603
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/902f9e387b938f871d31120f5fc1d65e.pdf
+$ENDCMP
+#
+$CMP CL10A105KB8NNNC
+D CAP, 1uF, 50V, +/-10%, X5R, 0603
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA10/2411562.pdf
+$ENDCMP
+#
+#End Doc Library

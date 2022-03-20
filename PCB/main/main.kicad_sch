@@ -1963,17 +1963,44 @@
     (path "/92adc2a7-705f-4e7b-90a7-1c91d9f5977d"
       (reference "#PWR016") (unit 1) (value "GND") (footprint "")
     )
-    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/573df38a-bab0-4b52-bd6f-f011e8f92ff2"
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/63cd22c8-1350-460c-be46-b5655169cc72"
       (reference "#PWR017") (unit 1) (value "GND") (footprint "")
     )
-    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/7dc8b720-4317-4265-bb3f-b22702c49c37"
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/eca3b65f-0e96-4a33-9f2e-a1662abb2631"
       (reference "#PWR018") (unit 1) (value "GND") (footprint "")
     )
-    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/ee6f2d1e-fec5-42a4-93bb-12f31e80cedb"
-      (reference "C1") (unit 1) (value "1uF") (footprint "")
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/06200bca-e123-4187-87c4-dcdd51b72a50"
+      (reference "#PWR019") (unit 1) (value "GND") (footprint "")
     )
-    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/ccb01023-5167-4550-bdf3-9f5d286db7e2"
-      (reference "C2") (unit 1) (value "1uF") (footprint "")
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/1c62eb44-914d-4ae5-8791-f9121bb6ac16"
+      (reference "#PWR020") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/f3f8fd22-df8e-4153-80f7-7e492788a26f"
+      (reference "#PWR021") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/d3d63e72-12c5-49ee-a013-1b151c076d5b"
+      (reference "#PWR022") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/e614159b-c181-438c-9ff3-8c99b47a257a"
+      (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/04f14a84-c358-478c-b961-db0f0780d93f"
+      (reference "A1") (unit 1) (value "ALS-PT19-315C/L177/TR8") (footprint "XDCR_ALS-PT19-315C/L177/TR8")
+    )
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/dc90451a-2e2a-46b8-af2c-39a143ff5a0a"
+      (reference "A2") (unit 1) (value "ALS-PT19-315C/L177/TR8") (footprint "XDCR_ALS-PT19-315C/L177/TR8")
+    )
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/119917d9-ff1d-4842-a06b-3260a8783f72"
+      (reference "C1") (unit 1) (value "ECQE2105KFB") (footprint "CAPRR1000W80L1850T740H2000")
+    )
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/db54633c-3bc9-4677-83e0-75f2900aa892"
+      (reference "C2") (unit 1) (value "ECQE2105KFB") (footprint "CAPRR1000W80L1850T740H2000")
+    )
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/23721e4e-b7cf-4008-908c-1994e55fc4fb"
+      (reference "C3") (unit 1) (value "GRM1555C1H5R1BA01D") (footprint "CAPC1005X55N")
+    )
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/65d9afa0-5fba-4cc7-832f-e00ec71fd52f"
+      (reference "IC1") (unit 1) (value "EL5171ISZ-T7") (footprint "SOIC127P600X175-8N")
     )
     (path "/ae3c331f-8808-430e-931c-7d9b2cc37f5b"
       (reference "J1") (unit 1) (value "Conn_01x33_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x33_P2.54mm_Vertical")
@@ -1987,38 +2014,26 @@
     (path "/39549a53-fe72-4509-a12d-de170bbf0433"
       (reference "J4") (unit 1) (value "Conn_01x33_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x33_P2.54mm_Vertical")
     )
-    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/2f35d2a7-59cc-47bb-a788-112639f28595"
-      (reference "R1") (unit 1) (value "1k") (footprint "")
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/2bb20961-363e-4712-9954-34d3037008bf"
+      (reference "R1") (unit 1) (value "AC0402FR-07536KL") (footprint "RESC1005X37N")
     )
-    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/4fba1e99-e08b-47c0-9ce0-f764d18c14d8"
-      (reference "R2") (unit 1) (value "1k") (footprint "")
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/383083b6-452c-4dcb-b228-1c07d6743911"
+      (reference "R2") (unit 1) (value "AC0402FR-07536KL") (footprint "RESC1005X37N")
     )
-    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/570c08b7-65b3-4f7d-b8f4-cb2cd16d0486"
-      (reference "R3") (unit 1) (value "1k") (footprint "")
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/95f96e56-853e-446a-9709-aa974ac37262"
+      (reference "R3") (unit 1) (value "ERJ3GEY0R00V") (footprint "ERJ3EKF1000V")
     )
-    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/4db0010a-0a7a-4b84-908a-9852e2bca467"
-      (reference "R4") (unit 1) (value "1k") (footprint "")
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/2db0e055-4448-4e6a-be1e-169598baf694"
+      (reference "R4") (unit 1) (value "ERJ3GEY0R00V") (footprint "ERJ3EKF1000V")
     )
-    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/6ad55953-7a86-4bfb-a23b-dcf3a404bbd3"
-      (reference "R5") (unit 1) (value "1k") (footprint "")
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/3f70dd30-7275-40c8-ad09-9a71f60e842f"
+      (reference "R5") (unit 1) (value "AC0402FR-07536KL") (footprint "RESC1005X37N")
     )
-    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/7dfc6478-57f4-47ac-8a3f-dbe3d9ff5e59"
-      (reference "R6") (unit 1) (value "1k") (footprint "")
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/d25b3981-5bce-4f4a-a1ab-ef7b7034c45e"
+      (reference "R6") (unit 1) (value "AC0402JR-0750RL") (footprint "RESC1005X37N")
     )
-    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/8abb2eaa-2ddc-4067-881a-3444f162f5ca"
-      (reference "U1") (unit 1) (value "LTR-303ALS-01") (footprint "OptoDevice:Lite-On_LTR-303ALS-01")
-    )
-    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/aa278a0d-9aaa-400e-a711-4ffb24eae2b6"
-      (reference "U2") (unit 1) (value "LTR-303ALS-01") (footprint "OptoDevice:Lite-On_LTR-303ALS-01")
-    )
-    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/c5e0f43a-ae71-4675-9b05-bf6d7eaec69c"
-      (reference "U3") (unit 1) (value "4011") (footprint "")
-    )
-    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/e7d51f6e-827f-46b1-9000-d82927f2da13"
-      (reference "U3") (unit 2) (value "4011") (footprint "")
-    )
-    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/05fb52a7-bc0e-474b-9b21-8152bc059402"
-      (reference "U3") (unit 3) (value "4011") (footprint "")
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/04545f95-d146-4134-9cc8-032a561aa173"
+      (reference "R7") (unit 1) (value "AC0402JR-0750RL") (footprint "RESC1005X37N")
     )
   )
 )
