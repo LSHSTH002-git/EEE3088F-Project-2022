@@ -30,4 +30,22 @@ K
 F http://www.atmel.com/Images/Atmel-8568-SEEPROM-AT24C256C-Datasheet.pdf
 $ENDCMP
 #
+$CMP CL10A475KO8NNNC
+D SAMSUNG ELECTRO-MECHANICS - CL10A475KO8NNNC - SMD Multilayer Ceramic Capacitor, 4.7 F, 16 V, 0603 [1608 Metric], +/- 10%, X5R, CL Series
+K
+F https://rs.componentsearchengine.com/Datasheets/2/CL10A475KO8NNNC.pdf
+$ENDCMP
+#
+$CMP CL10A475KA8NQNC
+D SAMSUNG ELECTRO-MECHANICS - CL10A475KA8NQNC - CAP, 4.7UF, 25V, MLCC, 0603
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA10/2405816.pdf
+$ENDCMP
+#
+$CMP RC0805FR-07470RL
+D GENERAL PURPOSE CHIP RESISTORS
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/902f9e387b938f871d31120f5fc1d65e.pdf
+$ENDCMP
+#
 #End Doc Library

@@ -1,5 +1,5 @@
 (module "CAPC1608X90N" (layer F.Cu)
-  (descr "CL10A106MQ8NNNC")
+  (descr "0603")
   (tags "Capacitor")
   (attr smd)
   (fp_text reference C** (at 0 0) (layer F.SilkS)
@@ -21,7 +21,7 @@
   (fp_line (start -0.8 0.4) (end -0.8 -0.4) (layer F.Fab) (width 0.1))
   (pad 1 smd rect (at -0.71 0 0) (size 0.73 0.94) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0.71 0 0) (size 0.73 0.94) (layers F.Cu F.Paste F.Mask))
-  (model "C:\\Users\\sthab\\Documents\\EEE3088F\\EEE3088F Project\\PCB\\symbols and footprints\\microcontroller_files\\SamacSys_Parts.3dshapes\\CL10A335KP8NNNC.stp"
+  (model "C:\\Users\\sthab\\Documents\\EEE3088F\\EEE3088F Project\\PCB\\symbols and footprints\\microcontroller_files\\SamacSys_Parts.3dshapes\\CL10A475KO8NNNC.stp"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
