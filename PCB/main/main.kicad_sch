@@ -2076,16 +2076,16 @@
       (reference "C2") (unit 1) (value "100nF") (footprint "SamacSys_Parts:CAPC1608X90N")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/b4d8e623-d912-463c-a6c7-bc18df423336"
-      (reference "C3") (unit 1) (value "CL10A475KA8NQNC") (footprint "CAPC1608X95N")
+      (reference "C3") (unit 1) (value "CL10A475KA8NQNC") (footprint "SamacSys_Parts_Microcontroller:CAPC1608X95N")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/d9b4b9ec-e761-4f6a-8f3c-09025e57fd3d"
-      (reference "C4") (unit 1) (value "CL10A475KA8NQNC") (footprint "CAPC1608X95N")
+      (reference "C4") (unit 1) (value "CL10A475KA8NQNC") (footprint "SamacSys_Parts_Microcontroller:CAPC1608X95N")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/00000000-0000-0000-0000-00006232db0b"
       (reference "C5") (unit 1) (value "100nF") (footprint "SamacSys_Parts:CAPC1608X90N")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/18695fe2-0a8f-4e94-a81c-d1e12bdcda31"
-      (reference "C6") (unit 1) (value "CL10A475KA8NQNC") (footprint "CAPC1608X95N")
+      (reference "C6") (unit 1) (value "CL10A475KA8NQNC") (footprint "SamacSys_Parts_Microcontroller:CAPC1608X95N")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/00000000-0000-0000-0000-00006225032a"
       (reference "C7") (unit 1) (value "1uF") (footprint "SamacSys_Parts:CAPC1608X90N")
@@ -2148,13 +2148,13 @@
       (reference "MCU1") (unit 1) (value "STM32F030C8Tx") (footprint "Package_QFP:LQFP-48_7x7mm_P0.5mm")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/00000000-0000-0000-0000-0000622c2216"
-      (reference "Q1") (unit 1) (value "IRF9540NPbF") (footprint "SamacSys_Parts:TO254P469X1042X1967-3P")
+      (reference "Q1") (unit 1) (value "IRF9540NPbF") (footprint "SamacSys_Parts_Power:TO254P469X1042X1967-3P")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/00000000-0000-0000-0000-00006222005f"
       (reference "R1") (unit 1) (value "2k") (footprint "SamacSys_Parts:RESC1005X35N")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/077985bd-c8a6-43b8-af30-1141a8334306"
-      (reference "R2") (unit 1) (value "RC0805FR-07470RL") (footprint "RESC2012X60N")
+      (reference "R2") (unit 1) (value "RC0805FR-07470RL") (footprint "SamacSys_Parts_Microcontroller:RESC2012X60N")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/00000000-0000-0000-0000-0000622b9939"
       (reference "R3") (unit 1) (value "10k") (footprint "SamacSys_Parts:RESC1608X55N")
