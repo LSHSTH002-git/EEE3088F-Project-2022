@@ -1,0 +1,339 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model NE555DR
+#/6648/2/2.37/8/4/Integrated Circuit
+DEF NE555DR IC 0 30 Y Y 1 F N
+F0 "IC" 1050 600 50 H V L CNN
+F1 "NE555DR" 1050 500 50 H V L CNN
+F2 "SOIC127P600X175-8N" 1050 400 50 H I L CNN
+F3 "http://www.ti.com/lit/ds/symlink/ne555.pdf" 1050 300 50 H I L CNN
+F4 "Single Precision Timer" 1050 200 50 H I L CNN "Description"
+F5 "1.75" 1050 100 50 H I L CNN "Height"
+F6 "Texas Instruments" 1050 0 50 H I L CNN "Manufacturer_Name"
+F7 "NE555DR" 1050 -100 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-NE555DR" 1050 -200 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=595-NE555DR" 1050 -300 50 H I L CNN "Mouser Price/Stock"
+F10 "1218414" 1050 -400 50 H I L CNN "RS Part Number"
+F11 "http//uk.rs-online.com/web/p/products/1218414" 1050 -500 50 H I L CNN "RS Price/Stock"
+DRAW
+X GND 1 600 -1000 200 U 50 50 0 0 B
+X TRIG 2 0 -400 200 R 50 50 0 0 B
+X OUT 3 1200 -200 200 L 50 50 0 0 B
+X ~RESET 4 0 0 200 R 50 50 0 0 B
+X CONT 5 500 600 200 D 50 50 0 0 B
+X THRES 6 0 -300 200 R 50 50 0 0 B
+X DISCH 7 0 -100 200 R 50 50 0 0 B
+X VCC 8 700 600 200 D 50 50 0 0 B
+P 5 0 1 6 200 400 1000 400 1000 -800 200 -800 200 400 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model 0603WAF470JT5E
+#/11771466/790209/2.49/2/3/Resistor
+DEF 0603WAF470JT5E R 0 30 Y Y 1 F N
+F0 "R" 550 250 50 H V L CNN
+F1 "0603WAF470JT5E" 550 150 50 H V L CNN
+F2 "RESC1608X55N" 550 50 50 H I L CNN
+F3 "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF470JT5E_C23182.pdf" 550 -50 50 H I L CNN
+F4 "47ohms &plusmn;1% 0.1W &plusmn;200ppm/&#8451 0603 Chip Resistor - Surface Mount RoHS" 550 -150 50 H I L CNN "Description"
+F5 "0.55" 550 -250 50 H I L CNN "Height"
+F6 "UNI-ROYAL(Uniroyal Elec)" 550 -350 50 H I L CNN "Manufacturer_Name"
+F7 "0603WAF470JT5E" 550 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 550 -550 50 H I L CNN "Mouser Part Number"
+F9 "" 550 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "" 550 -750 50 H I L CNN "Arrow Part Number"
+F11 "" 550 -850 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model 0603WAF1002T5E
+#/11684839/790209/2.49/2/3/Resistor
+DEF 0603WAF1002T5E R 0 30 Y Y 1 F N
+F0 "R" 550 250 50 H V L CNN
+F1 "0603WAF1002T5E" 550 150 50 H V L CNN
+F2 "RESC1608X55N" 550 50 50 H I L CNN
+F3 "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1002T5E_C25804.pdf" 550 -50 50 H I L CNN
+F4 "Chip Resistor - Surface Mount 10KOhms +/-1% 1/10W 0603 RoHS" 550 -150 50 H I L CNN "Description"
+F5 "0.55" 550 -250 50 H I L CNN "Height"
+F6 "UNI-ROYAL(Uniroyal Elec)" 550 -350 50 H I L CNN "Manufacturer_Name"
+F7 "0603WAF1002T5E" 550 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 550 -550 50 H I L CNN "Mouser Part Number"
+F9 "" 550 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "" 550 -750 50 H I L CNN "Arrow Part Number"
+F11 "" 550 -850 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model BAT60JFILM
+#/12887481/790209/2.49/2/3/Schottky Diode
+DEF BAT60JFILM D 0 30 Y Y 1 F N
+F0 "D" 500 350 50 H V L CNN
+F1 "BAT60JFILM" 500 250 50 H V L CNN
+F2 "SOD2513X117N" 500 150 50 H I L CNN
+F3 "https://www.mouser.jp/datasheet/2/389/cd00001944-1795661.pdf" 500 50 50 H I L CNN
+F4 "SMALL SIGNAL SCHOTTKY DIODE" 500 -50 50 H I L CNN "Description"
+F5 "1.17" 500 -150 50 H I L CNN "Height"
+F6 "STMicroelectronics" 500 -250 50 H I L CNN "Manufacturer_Name"
+F7 "BAT60JFILM" 500 -350 50 H I L CNN "Manufacturer_Part_Number"
+F8 "511-BAT60JFILM" 500 -450 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/BAT60JFILM?qs=GnFZssByvVVVnMaukcyLZg%3D%3D" 500 -550 50 H I L CNN "Mouser Price/Stock"
+F10 "BAT60JFILM" 500 -650 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/bat60jfilm/stmicroelectronics?region=europe" 500 -750 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 100 0 100 R 50 50 0 0 P
+X ~ 2 700 0 100 L 50 50 0 0 P
+P 2 0 1 6 300 100 300 -100 N
+P 3 0 1 6 300 100 340 100 340 60 N
+P 3 0 1 6 300 -100 260 -100 260 -60 N
+P 2 0 1 6 200 0 300 0 N
+P 2 0 1 6 500 0 600 0 N
+P 4 0 1 10 300 0 500 100 500 -100 300 0 F
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model CC0603KRX7R9BB104
+#/292974/790209/2.49/2/0/Capacitor
+DEF CC0603KRX7R9BB104 C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "CC0603KRX7R9BB104" 350 150 50 H V L CNN
+F2 "CAPC1608X90N" 350 50 50 H I L CNN
+F3 "http://componentsearchengine.com/Datasheets/3/CC0603KRX7R9BB104.pdf" 350 -50 50 H I L CNN
+F4 "CAPACITOR, 0603 100nF +/-10% 50V" 350 -150 50 H I L CNN "Description"
+F5 "0.9" 350 -250 50 H I L CNN "Height"
+F6 "YAGEO (PHYCOMP)" 350 -350 50 H I L CNN "Manufacturer_Name"
+F7 "CC0603KRX7R9BB104" 350 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "603-CC603KRX7R9BB104" 350 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/YAGEO/CC0603KRX7R9BB104?qs=vTakOoo5QyLvVCYM2ge8LQ%3D%3D" 350 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "CC0603KRX7R9BB104" 350 -750 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/cc0603krx7r9bb104/yageo?region=nac" 350 -850 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 500 0 200 L 50 50 0 0 P
+P 2 0 1 6 220 100 220 -100 N
+P 2 0 1 6 280 100 280 -100 N
+P 2 0 1 6 200 0 220 0 N
+P 2 0 1 6 280 0 300 0 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model CL05B103KB5NNNC
+#/490453/790209/2.49/2/3/Capacitor
+DEF CL05B103KB5NNNC C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "CL05B103KB5NNNC" 350 150 50 H V L CNN
+F2 "CAPC1005X55N" 350 50 50 H I L CNN
+F3 "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA10/2407958.pdf" 350 -50 50 H I L CNN
+F4 "Samsung Electro-Mechanics 0402 CL 10nF Ceramic Multilayer Capacitor, 50 V, +125C, X7R Dielectric, +/-10% SMD" 350 -150 50 H I L CNN "Description"
+F5 "0.55" 350 -250 50 H I L CNN "Height"
+F6 "Samsung Electro-Mechanics" 350 -350 50 H I L CNN "Manufacturer_Name"
+F7 "CL05B103KB5NNNC" 350 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "187-CL05B103KB5NNNC" 350 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL05B103KB5NNNC?qs=349EhDEZ59pcaIbMQHo3bQ%3D%3D" 350 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "CL05B103KB5NNNC" 350 -750 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/cl05b103kb5nnnc/samsung-electro-mechanics?region=europe" 350 -850 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 500 0 200 L 50 50 0 0 P
+P 2 0 1 6 220 100 220 -100 N
+P 2 0 1 6 280 100 280 -100 N
+P 2 0 1 6 200 0 220 0 N
+P 2 0 1 6 280 0 300 0 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model CL10A105KB8NNNC
+#/775975/790209/2.49/2/3/Capacitor
+DEF CL10A105KB8NNNC C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "CL10A105KB8NNNC" 350 150 50 H V L CNN
+F2 "CAPC1608X90N" 350 50 50 H I L CNN
+F3 "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA10/2411562.pdf" 350 -50 50 H I L CNN
+F4 "CAP, 1uF, 50V, +/-10%, X5R, 0603" 350 -150 50 H I L CNN "Description"
+F5 "0.9" 350 -250 50 H I L CNN "Height"
+F6 "Samsung Electro-Mechanics" 350 -350 50 H I L CNN "Manufacturer_Name"
+F7 "CL10A105KB8NNNC" 350 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "187-CL10A105KB8NNNC" 350 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL10A105KB8NNNC?qs=ktYoCbbtCSJz4pFCLWXd5g%3D%3D" 350 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "CL10A105KB8NNNC" 350 -750 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/cl10a105kb8nnnc/samsung-electro-mechanics?region=europe" 350 -850 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 500 0 200 L 50 50 0 0 P
+P 2 0 1 6 220 100 220 -100 N
+P 2 0 1 6 280 100 280 -100 N
+P 2 0 1 6 200 0 220 0 N
+P 2 0 1 6 280 0 300 0 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model CL10A475KO8NNNC
+#/4961684/790209/2.49/2/3/Capacitor
+DEF CL10A475KO8NNNC C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "CL10A475KO8NNNC" 350 150 50 H V L CNN
+F2 "CAPC1608X90N" 350 50 50 H I L CNN
+F3 "https://rs.componentsearchengine.com/Datasheets/2/CL10A475KO8NNNC.pdf" 350 -50 50 H I L CNN
+F4 "SAMSUNG ELECTRO-MECHANICS - CL10A475KO8NNNC - SMD Multilayer Ceramic Capacitor, 4.7 F, 16 V, 0603 [1608 Metric], +/- 10%, X5R, CL Series" 350 -150 50 H I L CNN "Description"
+F5 "0.9" 350 -250 50 H I L CNN "Height"
+F6 "Samsung Electro-Mechanics" 350 -350 50 H I L CNN "Manufacturer_Name"
+F7 "CL10A475KO8NNNC" 350 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "187-CL10A475KO8NNNC" 350 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL10A475KO8NNNC?qs=X6jEic%2FHinAbIjmLnFfqqQ%3D%3D" 350 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "CL10A475KO8NNNC" 350 -750 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/cl10a475ko8nnnc/samsung-electro-mechanics" 350 -850 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 500 0 200 L 50 50 0 0 P
+P 2 0 1 6 220 100 220 -100 N
+P 2 0 1 6 280 100 280 -100 N
+P 2 0 1 6 200 0 220 0 N
+P 2 0 1 6 280 0 300 0 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model CPF0402B2K0E1
+#/193741/790209/2.49/2/5/Resistor
+DEF CPF0402B2K0E1 R 0 30 Y Y 1 F N
+F0 "R" 550 250 50 H V L CNN
+F1 "CPF0402B2K0E1" 550 150 50 H V L CNN
+F2 "RESC1005X35N" 550 50 50 H I L CNN
+F3 "http://www.farnell.com/datasheets/1786775.pdf" 550 -50 50 H I L CNN
+F4 "TE Connectivity CPF Series Precision Thin Film Surface Mount Resistor 402 Case 2k +/-0.1% 0.063W +/-25ppm/C" 550 -150 50 H I L CNN "Description"
+F5 "0.35" 550 -250 50 H I L CNN "Height"
+F6 "TE Connectivity" 550 -350 50 H I L CNN "Manufacturer_Name"
+F7 "CPF0402B2K0E1" 550 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "279-CPF0402B2K0E1" 550 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/CPF0402B2K0E1?qs=9ylKvqdyudlKGdgtubykxw%3D%3D" 550 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "CPF0402B2K0E1" 550 -750 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/cpf0402b2k0e1/te-connectivity" 550 -850 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model GZ1608D601TF
+#/11826071/790209/2.49/2/3/Ferrite Bead
+DEF GZ1608D601TF FB 0 30 Y Y 1 F N
+F0 "FB" 650 300 50 H V L CNN
+F1 "GZ1608D601TF" 650 200 50 H V L CNN
+F2 "BEADC1608X95N" 650 100 50 H I L CNN
+F3 "https://datasheet.lcsc.com/szlcsc/Sunlord-GZ1608D601TF_C1002.pdf" 650 0 50 H I L CNN
+F4 "Multilayer Chip Ferrite Bead" 650 -100 50 H I L CNN "Description"
+F5 "0.95" 650 -200 50 H I L CNN "Height"
+F6 "SUNLORD" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "GZ1608D601TF" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 650 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 650 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model IRF9540NPBF
+#/708813/790209/2.49/3/4/MOSFET (P-Channel)
+DEF IRF9540NPBF Q 0 30 Y Y 1 F N
+F0 "Q" 450 150 50 H V L CNN
+F1 "IRF9540NPBF" 450 50 50 H V L CNN
+F2 "TO254P469X1042X1967-3P" 450 -50 50 H I L CNN
+F3 "https://www.infineon.com/dgdl/irf9540npbf.pdf?fileId=5546d462533600a401535611cfa21dc8" 450 -150 50 H I L CNN
+F4 "Infineon IRF9540NPBF P-channel MOSFET, 23 A, 100 V HEXFET, 3-Pin TO-220AB" 450 -250 50 H I L CNN "Description"
+F5 "4.69" 450 -350 50 H I L CNN "Height"
+F6 "Infineon" 450 -450 50 H I L CNN "Manufacturer_Name"
+F7 "IRF9540NPBF" 450 -550 50 H I L CNN "Manufacturer_Part_Number"
+F8 "942-IRF9540NPBF" 450 -650 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Infineon-IR/IRF9540NPBF?qs=9%252BKlkBgLFf0vnuA8mxUPtw%3D%3D" 450 -750 50 H I L CNN "Mouser Price/Stock"
+F10 "IRF9540NPBF" 450 -850 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/irf9540npbf/infineon-technologies-ag?region=nac" 450 -950 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 W
+X ~ 2 300 400 100 D 50 50 0 0 O
+X ~ 3 300 -200 100 U 50 50 0 0 W
+P 2 0 1 6 300 100 300 -100 N
+P 2 0 1 6 300 200 300 300 N
+P 3 0 1 6 100 0 200 0 200 200 N
+P 2 0 1 6 300 100 230 100 N
+P 2 0 1 6 300 200 230 200 N
+P 2 0 1 6 230 0 300 0 N
+P 2 0 1 6 230 220 230 180 N
+P 2 0 1 6 230 -20 230 20 N
+P 2 0 1 6 230 80 230 120 N
+C 250 100 150 0 1 10 N
+P 4 0 1 10 300 100 260 120 260 80 300 100 F
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model KT-0603R
+#/13871239/790209/2.49/2/4/LED
+DEF KT-0603R LED 0 30 Y Y 1 F N
+F0 "LED" 500 350 50 H V L BNN
+F1 "KT-0603R" 500 250 50 H V L BNN
+F2 "LEDC1608X70N" 500 150 50 H I L BNN
+F3 "https://datasheet.lcsc.com/szlcsc/Hubei-KENTO-Elec-KT-0603R_C2286.pdf" 500 50 50 H I L BNN
+F4 "Red 615~630nm 1.9~2.2V 0603 Light Emitting Diodes (LED) RoHS" 500 -50 50 H I L BNN "Description"
+F5 "0.7" 500 -150 50 H I L BNN "Height"
+F6 "Hubei KENTO Elec" 500 -250 50 H I L BNN "Manufacturer_Name"
+F7 "KT-0603R" 500 -350 50 H I L BNN "Manufacturer_Part_Number"
+F8 "" 500 -450 50 H I L BNN "Mouser Part Number"
+F9 "" 500 -550 50 H I L BNN "Mouser Price/Stock"
+F10 "" 500 -650 50 H I L BNN "Arrow Part Number"
+F11 "" 500 -750 50 H I L BNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 600 0 100 L 50 50 0 0 P
+P 2 0 1 6 200 100 200 -100 N
+P 2 0 1 6 250 100 150 200 N
+P 2 0 1 6 350 100 250 200 N
+P 2 0 1 6 100 0 200 0 N
+P 2 0 1 6 400 0 500 0 N
+P 4 0 1 10 200 0 400 100 400 -100 200 0 F
+P 4 0 1 10 210 170 180 140 150 200 210 170 F
+P 4 0 1 10 310 170 280 140 250 200 310 170 F
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model MICROXNJ
+#/12053614/790209/2.49/11/4/Connector
+DEF MICROXNJ J 0 30 Y Y 1 F N
+F0 "J" 850 300 50 H V L CNN
+F1 "MICROXNJ" 850 200 50 H V L CNN
+F2 "MICROXNJ" 850 100 50 H I L CNN
+F3 "https://datasheet.lcsc.com/szlcsc/1912111437_SHOU-HAN-MicroXNJ_C404969.pdf" 850 0 50 H I L CNN
+F4 "MICRO-USB-SMD_MICROXNJ" 850 -100 50 H I L CNN "Description"
+F5 "2.425" 850 -200 50 H I L CNN "Height"
+F6 "Shou Han" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "MICROXNJ" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 850 -500 50 H I L CNN "Mouser Part Number"
+F9 "" 850 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 850 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 850 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 -200 200 R 50 50 0 0 P
+X 4 4 0 -300 200 R 50 50 0 0 P
+X 5 5 0 -400 200 R 50 50 0 0 P
+X MH1 MH1 0 -500 200 R 50 50 0 0 P
+X MH2 MH2 1000 0 200 L 50 50 0 0 P
+X MH3 MH3 1000 -100 200 L 50 50 0 0 P
+X MH4 MH4 1000 -200 200 L 50 50 0 0 P
+X MP1 MP1 1000 -300 200 L 50 50 0 0 P
+X MP2 MP2 1000 -400 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -600 200 -600 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
