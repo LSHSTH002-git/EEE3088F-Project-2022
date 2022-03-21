@@ -1,0 +1,87 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP 0603WAF470JT5E
+D 47ohms &plusmn;1% 0.1W &plusmn;200ppm/&#8451 0603 Chip Resistor - Surface Mount RoHS
+K
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF470JT5E_C23182.pdf
+$ENDCMP
+#
+$CMP 0603WAF1002T5E
+D Chip Resistor - Surface Mount 10KOhms +/-1% 1/10W 0603 RoHS
+K
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0603WAF1002T5E_C25804.pdf
+$ENDCMP
+#
+$CMP BAT60JFILM
+D SMALL SIGNAL SCHOTTKY DIODE
+K
+F https://www.mouser.jp/datasheet/2/389/cd00001944-1795661.pdf
+$ENDCMP
+#
+$CMP CC0603KRX7R9BB104
+D CAPACITOR, 0603 100nF +/-10% 50V
+K
+F http://componentsearchengine.com/Datasheets/3/CC0603KRX7R9BB104.pdf
+$ENDCMP
+#
+$CMP CL05B103KB5NNNC
+D Samsung Electro-Mechanics 0402 CL 10nF Ceramic Multilayer Capacitor, 50 V, +125C, X7R Dielectric, +/-10% SMD
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA10/2407958.pdf
+$ENDCMP
+#
+$CMP CL10A105KB8NNNC
+D CAP, 1uF, 50V, +/-10%, X5R, 0603
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA10/2411562.pdf
+$ENDCMP
+#
+$CMP CL10A475KO8NNNC
+D SAMSUNG ELECTRO-MECHANICS - CL10A475KO8NNNC - SMD Multilayer Ceramic Capacitor, 4.7 F, 16 V, 0603 [1608 Metric], +/- 10%, X5R, CL Series
+K
+F https://rs.componentsearchengine.com/Datasheets/2/CL10A475KO8NNNC.pdf
+$ENDCMP
+#
+$CMP CPF0402B2K0E1
+D TE Connectivity CPF Series Precision Thin Film Surface Mount Resistor 402 Case 2k +/-0.1% 0.063W +/-25ppm/C
+K
+F http://www.farnell.com/datasheets/1786775.pdf
+$ENDCMP
+#
+$CMP GZ1608D601TF
+D Multilayer Chip Ferrite Bead
+K
+F https://datasheet.lcsc.com/szlcsc/Sunlord-GZ1608D601TF_C1002.pdf
+$ENDCMP
+#
+$CMP IRF9540NPBF
+D Infineon IRF9540NPBF P-channel MOSFET, 23 A, 100 V HEXFET, 3-Pin TO-220AB
+K
+F https://www.infineon.com/dgdl/irf9540npbf.pdf?fileId=5546d462533600a401535611cfa21dc8
+$ENDCMP
+#
+$CMP KT-0603R
+D Red 615~630nm 1.9~2.2V 0603 Light Emitting Diodes (LED) RoHS
+K
+F https://datasheet.lcsc.com/szlcsc/Hubei-KENTO-Elec-KT-0603R_C2286.pdf
+$ENDCMP
+#
+$CMP MICROXNJ
+D MICRO-USB-SMD_MICROXNJ
+K
+F https://datasheet.lcsc.com/szlcsc/1912111437_SHOU-HAN-MicroXNJ_C404969.pdf
+$ENDCMP
+#
+$CMP 47346-0001
+D Micro USB B Receptacle Bottom Mount Assy Molex Right Angle SMT Type B Version 2.0 Micro USB Connector Socket, 30 V ac, 1A 47352 MICRO-USB
+K
+F http://www.molex.com/pdm_docs/sd/473460001_sd.pdf
+$ENDCMP
+#
+#End Doc Library
