@@ -1997,9 +1997,6 @@
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/00000000-0000-0000-0000-000062243fe9"
       (reference "#PWR020") (unit 1) (value "Earth") (footprint "")
     )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/3a9cbe2c-0117-426c-a855-f4636189977d"
-      (reference "#PWR021") (unit 1) (value "+5V") (footprint "")
-    )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/00000000-0000-0000-0000-00006223e650"
       (reference "#PWR022") (unit 1) (value "Earth") (footprint "")
     )
@@ -2138,8 +2135,8 @@
     (path "/39549a53-fe72-4509-a12d-de170bbf0433"
       (reference "J4") (unit 1) (value "Conn_01x33_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x33_P2.54mm_Vertical")
     )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/f49b8522-b24a-41ad-a3b1-8dca1ceb9a62"
-      (reference "J5") (unit 1) (value "USB_B_Micro") (footprint "SamacSys_Parts:MICROXNJ")
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/7b58219a-a31d-4ba4-804a-77c6d706d8bc"
+      (reference "J5") (unit 1) (value "47346-0001") (footprint "47346-0001")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/00000000-0000-0000-0000-000062332161"
       (reference "JP1") (unit 1) (value "Jumper_3_Open") (footprint "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels")
