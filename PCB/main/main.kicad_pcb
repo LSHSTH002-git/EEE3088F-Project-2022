@@ -1051,6 +1051,11 @@
       (net 64 "+3v3") (pintype "passive") (tstamp c4f78af6-ff2a-4837-b6fc-6d9d220900fb))
     (pad "2" smd rect locked (at 0.75 0) (size 0.8 0.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 66 "Vout2") (pintype "passive") (tstamp dbf5a698-1d03-4fbf-b45a-33563b5507a1))
+    (model "C:/Users/mason/Downloads/eee3088f-project/PCB/symbols and footprints/searchenginelibrary/SamacSys_Parts.3dshapes/TR8--3DModel-STEP-56544.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (footprint "SamacSys_Parts_Microcontroller:CAPC1608X95N" (layer "F.Cu")
@@ -1419,6 +1424,11 @@
       (net 64 "+3v3") (pintype "passive") (tstamp 9a9ae7fe-65ee-4ae0-97f6-0fd7a9d3484b))
     (pad "2" smd rect locked (at 0.75 0) (size 0.8 0.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 65 "Vout1") (pintype "passive") (tstamp 45fcc835-9d20-44da-a3e5-2baa4be38e35))
+    (model "C:/Users/mason/Downloads/eee3088f-project/PCB/symbols and footprints/searchenginelibrary/SamacSys_Parts.3dshapes/TR8--3DModel-STEP-56544.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (footprint "SamacSys_Parts:RESC1608X55N" (layer "F.Cu")
