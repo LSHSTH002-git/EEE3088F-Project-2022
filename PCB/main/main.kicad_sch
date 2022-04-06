@@ -2275,6 +2275,12 @@
     (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/21a9a1b9-a706-483c-85f8-0ff7087c045e"
       (reference "R13") (unit 1) (value "RC0603FR-071KL") (footprint "SamacSys_Parts:RESC1608X55N")
     )
+    (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/8494bb68-ea65-4f3d-bcab-b43572bc844b"
+      (reference "TP?") (unit 1) (value "TestPoint") (footprint "")
+    )
+    (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/d300944f-e4f4-4b44-b09a-8982ea690c92"
+      (reference "TP?") (unit 1) (value "TestPoint") (footprint "")
+    )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/00000000-0000-0000-0000-00006221d448"
       (reference "U1") (unit 1) (value "MCP73831-2-OT") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
