@@ -2296,6 +2296,15 @@
     (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/6a74fea4-e4d5-44de-89c1-4edd21e1ebd8"
       (reference "TP6") (unit 1) (value "5017") (footprint "SamacSys_Parts:5017")
     )
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/5fad89a0-a44d-4cac-9504-c599006cca0c"
+      (reference "TP7") (unit 1) (value "5017") (footprint "5017")
+    )
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/642e42b0-1390-44a8-afeb-cafaffa8345a"
+      (reference "TP8") (unit 1) (value "5017") (footprint "5017")
+    )
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/746ccff9-05ff-4207-9a90-c9a36a5eb68b"
+      (reference "TP9") (unit 1) (value "5017") (footprint "5017")
+    )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/00000000-0000-0000-0000-00006221d448"
       (reference "U1") (unit 1) (value "MCP73831-2-OT") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
