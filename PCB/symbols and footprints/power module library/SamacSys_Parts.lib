@@ -361,4 +361,70 @@ P 5 0 1 6 -100 700 500 700 500 200 -100 200 -100 700 N
 ENDDRAW
 ENDDEF
 #
+#SamacSys ECAD Model PZ254V-11-02P
+#/15415806/790209/2.49/2/4/Connector
+DEF PZ254V-11-02P J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "PZ254V-11-02P" 650 200 50 H V L CNN
+F2 "HDRV2W64P0X254_1X2_508X250X873P" 650 100 50 H I L CNN
+F3 "https://datasheet.lcsc.com/lcsc/2003141409_XFCN-PZ254V-11-02P_C492401.pdf" 650 0 50 H I L CNN
+F4 "Straight 1 2 2.54mm Black Brass Plugin,P=2.54mm Pin Headers ROHS" 650 -100 50 H I L CNN "Description"
+F5 "8.73" 650 -200 50 H I L CNN "Height"
+F6 "XFCN" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "PZ254V-11-02P" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 650 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 650 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model MTP125-1103S1
+#/4652383/790209/2.49/3/4/Connector
+DEF MTP125-1103S1 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "MTP125-1103S1" 650 200 50 H V L CNN
+F2 "HDRV3W64P0X254_1X3_762X250X885P" 650 100 50 H I L CNN
+F3 "https://datasheet.lcsc.com/szlcsc/1901241805_MINTRON-MTP125-1103S1_C358685.pdf" 650 0 50 H I L CNN
+F4 "Through Hole,P=2.54mm Pin Header & Female Header" 650 -100 50 H I L CNN "Description"
+F5 "8.85" 650 -200 50 H I L CNN "Height"
+F6 "MINTRON" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "MTP125-1103S1" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 650 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 650 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 -200 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model 5017
+#/293486/790209/2.49/1/4/Test Point
+DEF 5017 TP 0 30 Y Y 1 F N
+F0 "TP" 650 300 50 H V L CNN
+F1 "5017" 650 200 50 H V L CNN
+F2 "5017" 650 100 50 H I L CNN
+F3 "http://www.keyelco.com/product.cfm/product_id/1355" 650 0 50 H I L CNN
+F4 "KEYSTONE - 5017 - TEST POINT, PCB, MINIATURE, SMT" 650 -100 50 H I L CNN "Description"
+F5 "" 650 -200 50 H I L CNN "Height"
+F6 "Keystone Electronics" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "5017" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "534-5017" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/5017?qs=Rc9fedAPY0Oq34lsnTvuLg%3D%3D" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 650 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 650 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -100 200 -100 200 100 N
+ENDDRAW
+ENDDEF
+#
 #End Library
