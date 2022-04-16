@@ -48,4 +48,10 @@ K
 F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/902f9e387b938f871d31120f5fc1d65e.pdf
 $ENDCMP
 #
+$CMP 47346-0001
+D Micro USB B Receptacle Bottom Mount Assy Molex Right Angle SMT Type B Version 2.0 Micro USB Connector Socket, 30 V ac, 1A 47352 MICRO-USB
+K
+F http://www.molex.com/pdm_docs/sd/473460001_sd.pdf
+$ENDCMP
+#
 #End Doc Library
