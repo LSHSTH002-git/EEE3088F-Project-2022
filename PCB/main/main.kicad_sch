@@ -2240,13 +2240,13 @@
       (reference "IC3") (unit 1) (value "AT24C256C-SSHL-T") (footprint "SamacSys_Parts:SOIC127P600X175-8N")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/c546fb29-ecb0-4e79-aa38-a734eb1fb469"
-      (reference "IC4") (unit 1) (value "FT230XS-R") (footprint "SOP64P599X175-16N")
+      (reference "IC4") (unit 1) (value "FT230XS-R") (footprint "SamacSys_Parts_Power:SOP64P599X175-16N")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/5db4fffe-17dc-4036-b9e5-19f35f1addaf"
-      (reference "IC5") (unit 1) (value "MCP73831T-2ACI_OT") (footprint "SOT95P270X145-5N")
+      (reference "IC5") (unit 1) (value "MCP73831T-2ACI_OT") (footprint "SamacSys_Parts_Power:SOT95P270X145-5N")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/a327a7ec-ffa9-48a1-b004-f6cf20e8e421"
-      (reference "IC6") (unit 1) (value "MCP1700T-3302E_TT") (footprint "SOT95P237X112-3N")
+      (reference "IC6") (unit 1) (value "MCP1700T-3302E_TT") (footprint "SamacSys_Parts_Power:SOT95P237X112-3N")
     )
     (path "/ae3c331f-8808-430e-931c-7d9b2cc37f5b"
       (reference "J1") (unit 1) (value "Conn_01x33_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x33_P2.54mm_Vertical")
@@ -2261,25 +2261,22 @@
       (reference "J4") (unit 1) (value "Conn_01x33_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x33_P2.54mm_Vertical")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/7b58219a-a31d-4ba4-804a-77c6d706d8bc"
-      (reference "J5") (unit 1) (value "47346-0001") (footprint "SamacSys_Parts_Power:47346-0001")
+      (reference "J5") (unit 1) (value "47346-0001") (footprint "SamacSys_Parts_Microcontroller:47346-0001")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/e98fb1e9-dcb3-4943-b5e9-ac5075fe1d4f"
-      (reference "J6") (unit 1) (value "PZ254V-11-02P") (footprint "SamacSys_Parts:HDRV2W64P0X254_1X2_508X250X873P")
+      (reference "J6") (unit 1) (value "PZ254V-11-02P") (footprint "SamacSys_Parts_Power:HDRV2W64P0X254_1X2_508X250X873P")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/256e0a62-8fb7-4627-997d-73a62ec933ee"
-      (reference "J7") (unit 1) (value "PZ254V-11-02P") (footprint "SamacSys_Parts:HDRV2W64P0X254_1X2_508X250X873P")
+      (reference "J7") (unit 1) (value "PZ254V-11-02P") (footprint "SamacSys_Parts_Power:HDRV2W64P0X254_1X2_508X250X873P")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/6a53337e-604d-407f-8af1-7c711419ee86"
-      (reference "J8") (unit 1) (value "MTP125-1103S1") (footprint "SamacSys_Parts:HDRV3W64P0X254_1X3_762X250X885P")
+      (reference "J8") (unit 1) (value "MTP125-1103S1") (footprint "SamacSys_Parts_Power:HDRV3W64P0X254_1X3_762X250X885P")
     )
     (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/8cdb0859-c152-438f-a411-753aa02c1177"
-      (reference "J9") (unit 1) (value "PZ254V-11-02P") (footprint "HDRV2W64P0X254_1X2_508X250X873P")
+      (reference "J9") (unit 1) (value "PZ254V-11-02P") (footprint "SamacSys_Parts_Power:HDRV2W64P0X254_1X2_508X250X873P")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/f84157e2-72ff-4eca-a8ee-755ceb68d769"
-      (reference "J10") (unit 1) (value "PZ254V-11-02P") (footprint "HDRV2W64P0X254_1X2_508X250X873P")
-    )
-    (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/306ab6c4-dc85-4c0e-b9ba-0c8f07d863f2"
-      (reference "MCU1") (unit 1) (value "STM32F030C8Tx") (footprint "Package_QFP:LQFP-48_7x7mm_P0.5mm")
+      (reference "J10") (unit 1) (value "PZ254V-11-02P") (footprint "SamacSys_Parts_Power:HDRV2W64P0X254_1X2_508X250X873P")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/00000000-0000-0000-0000-0000622c2216"
       (reference "Q1") (unit 1) (value "IRF9540NPbF") (footprint "SamacSys_Parts_Power:TO254P469X1042X1967-3P")
@@ -2330,31 +2327,31 @@
       (reference "R15") (unit 1) (value "0603WAF270JT5E") (footprint "RESC1608X55N")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/1436a783-6564-4cf1-b04a-2e5a11e5eb64"
-      (reference "TP1") (unit 1) (value "5017") (footprint "SamacSys_Parts:5017")
+      (reference "TP1") (unit 1) (value "5017") (footprint "SamacSys_Parts_Power:5017")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/78db18b7-3021-4c7d-8eeb-c64190437128"
-      (reference "TP2") (unit 1) (value "5017") (footprint "SamacSys_Parts:5017")
+      (reference "TP2") (unit 1) (value "5017") (footprint "SamacSys_Parts_Power:5017")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/c3a39680-eeb2-4335-a2ec-8069212537b9"
-      (reference "TP3") (unit 1) (value "5017") (footprint "SamacSys_Parts:5017")
+      (reference "TP3") (unit 1) (value "5017") (footprint "SamacSys_Parts_Power:5017")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/a77bb222-c166-42e5-bfb6-754e3ca9e305"
-      (reference "TP4") (unit 1) (value "5017") (footprint "SamacSys_Parts:5017")
+      (reference "TP4") (unit 1) (value "5017") (footprint "SamacSys_Parts_Power:5017")
     )
     (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/5fad89a0-a44d-4cac-9504-c599006cca0c"
-      (reference "TP5") (unit 1) (value "5017") (footprint "5017")
+      (reference "TP5") (unit 1) (value "5017") (footprint "SamacSys_Parts_Power:5017")
     )
     (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/642e42b0-1390-44a8-afeb-cafaffa8345a"
-      (reference "TP6") (unit 1) (value "5017") (footprint "5017")
+      (reference "TP6") (unit 1) (value "5017") (footprint "SamacSys_Parts_Power:5017")
     )
     (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/746ccff9-05ff-4207-9a90-c9a36a5eb68b"
-      (reference "TP7") (unit 1) (value "5017") (footprint "5017")
+      (reference "TP7") (unit 1) (value "5017") (footprint "SamacSys_Parts_Power:5017")
     )
     (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/146ce59e-e565-477c-b40e-8afd6e34b83b"
-      (reference "TP8") (unit 1) (value "5017") (footprint "SamacSys_Parts:5017")
+      (reference "TP8") (unit 1) (value "5017") (footprint "SamacSys_Parts_Power:5017")
     )
     (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/6a74fea4-e4d5-44de-89c1-4edd21e1ebd8"
-      (reference "TP9") (unit 1) (value "5017") (footprint "SamacSys_Parts:5017")
+      (reference "TP9") (unit 1) (value "5017") (footprint "SamacSys_Parts_Power:5017")
     )
   )
 )
