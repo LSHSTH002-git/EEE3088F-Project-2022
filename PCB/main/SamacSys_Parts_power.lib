@@ -427,4 +427,135 @@ P 5 0 1 6 200 100 600 100 600 -100 200 -100 200 100 N
 ENDDRAW
 ENDDEF
 #
+#SamacSys ECAD Model MCP73831T-2ACI_OT
+#/159526/790209/2.49/5/3/Integrated Circuit
+DEF MCP73831T-2ACI_OT IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "MCP73831T-2ACI_OT" 950 200 50 H V L CNN
+F2 "SOT95P270X145-5N" 950 100 50 H I L CNN
+F3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf" 950 0 50 H I L CNN
+F4 "Li-Ion Charge Controller 4.2V SOT23-5" 950 -100 50 H I L CNN "Description"
+F5 "1.45" 950 -200 50 H I L CNN "Height"
+F6 "Microchip" 950 -300 50 H I L CNN "Manufacturer_Name"
+F7 "MCP73831T-2ACI/OT" 950 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "579-MCP73831T-2ACIOT" 950 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP73831T-2ACI-OT?qs=yUQqVecv4qvbBQBGbHx0Mw%3D%3D" 950 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "MCP73831T-2ACI/OT" 950 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/mcp73831t-2aciot/microchip-technology?region=nac" 950 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X STAT 1 0 0 200 R 50 50 0 0 P
+X VSS 2 0 -100 200 R 50 50 0 0 P
+X VBAT 3 0 -200 200 R 50 50 0 0 P
+X VDD 4 1100 0 200 L 50 50 0 0 P
+X PROG 5 1100 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model MCP1700T-3302E_TT
+#/158898/790209/2.49/3/3/Integrated Circuit
+DEF MCP1700T-3302E_TT IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "MCP1700T-3302E_TT" 950 200 50 H V L CNN
+F2 "SOT95P237X112-3N" 950 100 50 H I L CNN
+F3 "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-4/sf-00090030.pdf" 950 0 50 H I L CNN
+F4 "LDO voltage regulator 250mA Isupply 1uA" 950 -100 50 H I L CNN "Description"
+F5 "1.12" 950 -200 50 H I L CNN "Height"
+F6 "Microchip" 950 -300 50 H I L CNN "Manufacturer_Name"
+F7 "MCP1700T-3302E/TT" 950 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "579-MCP1700T3302E/TT" 950 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP1700T-3302E-TT?qs=fM4xO01eazPmCNDrdHEdaw%3D%3D" 950 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "MCP1700T-3302E/TT" 950 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/mcp1700t-3302ett/microchip-technology?region=nac" 950 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X GND 1 0 0 200 R 50 50 0 0 P
+X VOUT 2 0 -100 200 R 50 50 0 0 P
+X VIN 3 1100 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model FT230XS-R
+#/242936/790209/2.49/16/3/Integrated Circuit
+DEF FT230XS-R IC 0 30 Y Y 1 F N
+F0 "IC" 1150 300 50 H V L CNN
+F1 "FT230XS-R" 1150 200 50 H V L CNN
+F2 "SOP64P599X175-16N" 1150 100 50 H I L CNN
+F3 "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT230X.pdf" 1150 0 50 H I L CNN
+F4 "UART Interface RS232, RS422, RS485, SIE, UART 3MBd, 5 V" 1150 -100 50 H I L CNN "Description"
+F5 "1.753" 1150 -200 50 H I L CNN "Height"
+F6 "FTDI Chip" 1150 -300 50 H I L CNN "Manufacturer_Name"
+F7 "FT230XS-R" 1150 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "895-FT230XS-R" 1150 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/FTDI/FT230XS-R?qs=Gp1Yz1mis3XyCLeYOseSng%3D%3D" 1150 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "FT230XS-R" 1150 -700 50 H I L CNN "Arrow Part Number"
+F11 "http://www.arrow.com/en/products/ft230xs-r/ftdi-chip" 1150 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X TXD 1 0 0 200 R 50 50 0 0 P
+X RTS# 2 0 -100 200 R 50 50 0 0 P
+X VCCIO 3 0 -200 200 R 50 50 0 0 P
+X RXD 4 0 -300 200 R 50 50 0 0 P
+X GND_1 5 0 -400 200 R 50 50 0 0 P
+X CTS# 6 0 -500 200 R 50 50 0 0 P
+X CBUS2 7 0 -600 200 R 50 50 0 0 P
+X USBDP 8 0 -700 200 R 50 50 0 0 P
+X CBUS3 16 1300 0 200 L 50 50 0 0 P
+X CBUS0 15 1300 -100 200 L 50 50 0 0 P
+X CBUS1 14 1300 -200 200 L 50 50 0 0 P
+X GND_2 13 1300 -300 200 L 50 50 0 0 P
+X VCC 12 1300 -400 200 L 50 50 0 0 P
+X RESET# 11 1300 -500 200 L 50 50 0 0 P
+X 3V3OUT 10 1300 -600 200 L 50 50 0 0 P
+X USBDM 9 1300 -700 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1100 100 1100 -800 200 -800 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model 0603WAF270JT5E
+#/14048177/790209/2.49/2/3/Resistor
+DEF 0603WAF270JT5E R 0 30 Y Y 1 F N
+F0 "R" 550 250 50 H V L CNN
+F1 "0603WAF270JT5E" 550 150 50 H V L CNN
+F2 "RESC1608X55N" 550 50 50 H I L CNN
+F3 "https://datasheet.lcsc.com/lcsc/2110252230_UNI-ROYAL-Uniroyal-Elec-0603WAF270JT5E_C25190.pdf" 550 -50 50 H I L CNN
+F4 "Chip Resistor - Surface Mount 27Ohms +/-1% 1/10W 0603 RoHS" 550 -150 50 H I L CNN "Description"
+F5 "0.55" 550 -250 50 H I L CNN "Height"
+F6 "UNI-ROYAL(Uniroyal Elec)" 550 -350 50 H I L CNN "Manufacturer_Name"
+F7 "0603WAF270JT5E" 550 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 550 -550 50 H I L CNN "Mouser Part Number"
+F9 "" 550 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "" 550 -750 50 H I L CNN "Arrow Part Number"
+F11 "" 550 -850 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model CL10C470JB8NNNC
+#/490624/790209/2.49/2/3/Capacitor
+DEF CL10C470JB8NNNC C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "CL10C470JB8NNNC" 350 150 50 H V L CNN
+F2 "CAPC1608X90N" 350 50 50 H I L CNN
+F3 "http://uk.rs-online.com/web/p/products/7665095" 350 -50 50 H I L CNN
+F4 "Samsung Electro-Mechanics 0603 CL 47pF Ceramic Multilayer Capacitor, 50 V, +125C, C0G Dielectric, +/-5% SMD" 350 -150 50 H I L CNN "Description"
+F5 "0.9" 350 -250 50 H I L CNN "Height"
+F6 "Samsung Electro-Mechanics" 350 -350 50 H I L CNN "Manufacturer_Name"
+F7 "CL10C470JB8NNNC" 350 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "N/A" 350 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL10C470JB8NNNC?qs=349EhDEZ59pmluRkjzIjBw%3D%3D" 350 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "CL10C470JB8NNNC" 350 -750 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/cl10c470jb8nnnc/samsung-electro-mechanics" 350 -850 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 500 0 200 L 50 50 0 0 P
+P 2 0 1 6 220 100 220 -100 N
+P 2 0 1 6 280 100 280 -100 N
+P 2 0 1 6 200 0 220 0 N
+P 2 0 1 6 280 0 300 0 N
+ENDDRAW
+ENDDEF
+#
 #End Library
