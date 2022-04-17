@@ -2014,9 +2014,6 @@
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/53238e69-5a36-4e5c-8c8f-e3513a7c3d75"
       (reference "#FLG03") (unit 1) (value "PWR_FLAG") (footprint "")
     )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/757f35be-cb08-43ed-b156-e7ba0cee922b"
-      (reference "#FLG04") (unit 1) (value "PWR_FLAG") (footprint "")
-    )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/02698c7d-2f5c-40dd-a4ef-69bef659c9ee"
       (reference "#FLG05") (unit 1) (value "PWR_FLAG") (footprint "")
     )
@@ -2025,9 +2022,6 @@
     )
     (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/4b0f8688-82f8-4fa4-a1e6-122077c7e659"
       (reference "#FLG07") (unit 1) (value "PWR_FLAG") (footprint "")
-    )
-    (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/0c1fc27c-43cb-491c-8ec7-f39e0a84d56b"
-      (reference "#FLG08") (unit 1) (value "PWR_FLAG") (footprint "")
     )
     (path "/e04409c2-b3ba-460e-bddc-62e0044901c2"
       (reference "#PWR01") (unit 1) (value "+3V0") (footprint "")
@@ -2077,7 +2071,7 @@
     (path "/dc463df2-2692-4a08-9d95-1a693251e4f0"
       (reference "#PWR016") (unit 1) (value "VDD") (footprint "")
     )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/1ee5bda6-1e63-4580-bf44-1e1ac78dcc5a"
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/56b33c36-8771-424b-8d11-65057408e8e2"
       (reference "#PWR017") (unit 1) (value "GND") (footprint "")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/1bf20e62-9fd6-4d55-b6f6-1ee95418f6c8"
@@ -2086,23 +2080,11 @@
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/49d0e435-d6fe-4ed3-b676-1989f5906fc4"
       (reference "#PWR019") (unit 1) (value "GND") (footprint "")
     )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/9ec3106e-5b2e-4d69-bc01-ebb5b0472bc2"
-      (reference "#PWR020") (unit 1) (value "GND") (footprint "")
-    )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/5de4714b-ba2d-4187-bb1c-0c8fe246be5c"
       (reference "#PWR021") (unit 1) (value "+5V") (footprint "")
     )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/a8453b08-061e-4cb4-97a3-75123021352e"
-      (reference "#PWR022") (unit 1) (value "GND") (footprint "")
-    )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/e5fc40e2-7307-4e01-b143-76e141232248"
       (reference "#PWR023") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/5cbdca0e-bf25-4eec-8a7d-e7494f90889c"
-      (reference "#PWR024") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/cdbdf8c3-711f-4c52-aecb-8a210d65533c"
-      (reference "#PWR025") (unit 1) (value "GND") (footprint "")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/96e7501d-4d90-44e4-813e-66bccb4fc075"
       (reference "#PWR026") (unit 1) (value "GND") (footprint "")
@@ -2158,15 +2140,6 @@
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/8423b59c-cc40-427f-b41b-784eab5d8bf7"
       (reference "#PWR043") (unit 1) (value "GND") (footprint "")
     )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/05412aca-3157-49fd-881f-7e4439f4bacb"
-      (reference "#PWR044") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/35e28d5d-e657-45da-9949-c21ef114437d"
-      (reference "#PWR045") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/4d9072c5-71bc-4bdc-bc8f-8872f3e83e89"
-      (reference "#PWR046") (unit 1) (value "GND") (footprint "")
-    )
     (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/3078fc62-fc65-44c3-8730-e98e32046f59"
       (reference "A1") (unit 1) (value "ALS-PT19-315C/L177/TR8") (footprint "SamacSys_Parts:XDCR_ALS-PT19-315C_L177_TR8")
     )
@@ -2176,26 +2149,26 @@
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/00000000-0000-0000-0000-000062307c35"
       (reference "C1") (unit 1) (value "10nF") (footprint "SamacSys_Parts:CAPC1608X90N")
     )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/1c13e4ba-08a7-44aa-9653-7caf65f28337"
-      (reference "C2") (unit 1) (value "CC0603KRX7R9BB104") (footprint "CAPC1608X90N")
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/7a565c04-da3c-4b92-8807-aac3613a3481"
+      (reference "C2") (unit 1) (value "CL31A106KBHNNNE") (footprint "SamacSys_Parts:CAPC3216X180N")
     )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/b4d8e623-d912-463c-a6c7-bc18df423336"
-      (reference "C3") (unit 1) (value "CL10A475KA8NQNC") (footprint "SamacSys_Parts_Microcontroller:CAPC1608X95N")
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/081150ea-ab55-4bb2-8208-18ff5fedeb71"
+      (reference "C3") (unit 1) (value "100nF") (footprint "SamacSys_Parts:CAPC1608X90N")
     )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/d9b4b9ec-e761-4f6a-8f3c-09025e57fd3d"
-      (reference "C4") (unit 1) (value "CL10A475KA8NQNC") (footprint "SamacSys_Parts_Microcontroller:CAPC1608X95N")
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/3fe664b1-3698-4412-9f31-8ea649b80288"
+      (reference "C4") (unit 1) (value "100nF") (footprint "SamacSys_Parts:CAPC1608X90N")
     )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/00000000-0000-0000-0000-00006232db0b"
-      (reference "C5") (unit 1) (value "100nF") (footprint "SamacSys_Parts:CAPC1608X90N")
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/1fcc6c05-fdf5-4912-a4ba-a761e6094909"
+      (reference "C5") (unit 1) (value "CL21C101JBANNNC") (footprint "SamacSys_Parts:CAPC2012X75N")
     )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/18695fe2-0a8f-4e94-a81c-d1e12bdcda31"
-      (reference "C6") (unit 1) (value "CL10A475KA8NQNC") (footprint "SamacSys_Parts_Microcontroller:CAPC1608X95N")
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/08a1ba89-7087-41bc-9d60-62cb4ca92aa0"
+      (reference "C6") (unit 1) (value "CL31A106KBHNNNE") (footprint "SamacSys_Parts:CAPC3216X180N")
     )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/00000000-0000-0000-0000-00006225032a"
-      (reference "C7") (unit 1) (value "1uF") (footprint "SamacSys_Parts:CAPC1608X90N")
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/80724c27-c6e5-455e-8590-f2644feeaf65"
+      (reference "C7") (unit 1) (value "CL31A106KBHNNNE") (footprint "SamacSys_Parts:CAPC3216X180N")
     )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/00000000-0000-0000-0000-000062266550"
-      (reference "C8") (unit 1) (value "1uF") (footprint "SamacSys_Parts:CAPC1608X90N")
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/1c7fd2d2-16cd-4e32-867f-4f763036ba51"
+      (reference "C8") (unit 1) (value "CL31A106KBHNNNE") (footprint "SamacSys_Parts:CAPC3216X180N")
     )
     (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/2887f18d-0aa0-4560-89a5-469e7311c504"
       (reference "C9") (unit 1) (value "CL10A105KB8NNNC") (footprint "SamacSys_Parts:CAPC1608X90N")
@@ -2212,23 +2185,11 @@
     (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/a119d1c0-bda9-4de4-a6c0-6d931cfaa90b"
       (reference "C13") (unit 1) (value "CC0603KRX7R9BB104") (footprint "CAPC1608X90N")
     )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/e051cd2b-7105-49be-a468-8514075697be"
-      (reference "C14") (unit 1) (value "CL10C470JB8NNNC") (footprint "CAPC1608X90N")
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/90f2c5ac-d7b5-47bc-8f31-797397d14ce6"
+      (reference "D1") (unit 1) (value "SS14") (footprint "SamacSys_Parts:DIOM5227X270N")
     )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/c10770cb-736a-46f0-ae0b-80dcf4322d58"
-      (reference "C15") (unit 1) (value "CL10C470JB8NNNC") (footprint "CAPC1608X90N")
-    )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/00000000-0000-0000-0000-00006221ee4c"
-      (reference "D1") (unit 1) (value "LED") (footprint "SamacSys_Parts:LEDC1608X70N")
-    )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/00000000-0000-0000-0000-00006224b297"
-      (reference "D2") (unit 1) (value "BAT60J") (footprint "Diode_SMD:D_SOD-323")
-    )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/00000000-0000-0000-0000-0000623481ed"
-      (reference "D3") (unit 1) (value "BAT60J") (footprint "Diode_SMD:D_SOD-323")
-    )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/00000000-0000-0000-0000-000062372cae"
-      (reference "FB1") (unit 1) (value "Ferrite_Bead") (footprint "SamacSys_Parts:BEADC1608X95N")
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/ebfce842-7843-48e7-b5e5-fbf05f201173"
+      (reference "D2") (unit 1) (value "SS14") (footprint "SamacSys_Parts:DIOM5227X270N")
     )
     (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/8090f862-f6f6-4854-a7a7-f2ef12b13e56"
       (reference "IC1") (unit 1) (value "LM358DT") (footprint "SamacSys_Parts:SOIC127P600X175-8N")
@@ -2239,14 +2200,8 @@
     (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/d32c0405-e8e7-4d63-8427-176902ade10c"
       (reference "IC3") (unit 1) (value "AT24C256C-SSHL-T") (footprint "SamacSys_Parts:SOIC127P600X175-8N")
     )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/c546fb29-ecb0-4e79-aa38-a734eb1fb469"
-      (reference "IC4") (unit 1) (value "FT230XS-R") (footprint "SamacSys_Parts_Power:SOP64P599X175-16N")
-    )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/5db4fffe-17dc-4036-b9e5-19f35f1addaf"
-      (reference "IC5") (unit 1) (value "MCP73831T-2ACI_OT") (footprint "SamacSys_Parts_Power:SOT95P270X145-5N")
-    )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/a327a7ec-ffa9-48a1-b004-f6cf20e8e421"
-      (reference "IC6") (unit 1) (value "MCP1700T-3302E_TT") (footprint "SamacSys_Parts_Power:SOT95P237X112-3N")
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/dad3c410-69ad-426e-8b45-2f441ffadba3"
+      (reference "IC4") (unit 1) (value "TP4056-42-ESOP8") (footprint "SamacSys_Parts:SOIC127P600X175-9N")
     )
     (path "/ae3c331f-8808-430e-931c-7d9b2cc37f5b"
       (reference "J1") (unit 1) (value "Conn_01x33_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x33_P2.54mm_Vertical")
@@ -2278,14 +2233,32 @@
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/f84157e2-72ff-4eca-a8ee-755ceb68d769"
       (reference "J10") (unit 1) (value "PZ254V-11-02P") (footprint "SamacSys_Parts_Power:HDRV2W64P0X254_1X2_508X250X873P")
     )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/00000000-0000-0000-0000-0000622c2216"
-      (reference "Q1") (unit 1) (value "IRF9540NPbF") (footprint "SamacSys_Parts_Power:TO254P469X1042X1967-3P")
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/3cf4075b-b6e0-4319-9812-ab72037bc4ea"
+      (reference "J11") (unit 1) (value "ICH-340-CTT") (footprint "SamacSys_Parts:DIPS762W74P254L5080H338Q40N")
     )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/00000000-0000-0000-0000-00006222005f"
-      (reference "R1") (unit 1) (value "2k") (footprint "SamacSys_Parts:RESC1005X35N")
+    (path "/6faa355f-9d08-4dfa-b3e6-58b461b2063e/35cfc998-3d7b-487f-bd2c-29f1f89c0869"
+      (reference "J12") (unit 1) (value "MTP125-1103S1") (footprint "SamacSys_Parts:HDRV3W64P0X254_1X3_762X250X885P")
     )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/077985bd-c8a6-43b8-af30-1141a8334306"
-      (reference "R2") (unit 1) (value "RC0805FR-07470RL") (footprint "SamacSys_Parts_Microcontroller:RESC2012X60N")
+    (path "/6faa355f-9d08-4dfa-b3e6-58b461b2063e/a55ffd53-c24e-4760-b4c2-ae489b9be937"
+      (reference "J13") (unit 1) (value "MTP125-1103S1") (footprint "SamacSys_Parts:HDRV3W64P0X254_1X3_762X250X885P")
+    )
+    (path "/6faa355f-9d08-4dfa-b3e6-58b461b2063e/bb6350f8-b748-4831-b014-bb709266a462"
+      (reference "J14") (unit 1) (value "MTP125-1103S1") (footprint "SamacSys_Parts:HDRV3W64P0X254_1X3_762X250X885P")
+    )
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/909e76d0-cd1f-4a19-9b71-c0b467c41125"
+      (reference "LED1") (unit 1) (value "19-217_GHC-YR1S2_3T") (footprint "SamacSys_Parts:LEDC1608X50N")
+    )
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/39372d8b-f930-46a9-b26b-3df6c5d8661b"
+      (reference "LED2") (unit 1) (value "19-217_GHC-YR1S2_3T") (footprint "SamacSys_Parts:LEDC1608X50N")
+    )
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/f596d5b3-6832-40ce-8398-9bf6855cc648"
+      (reference "Q1") (unit 1) (value "AO3401A") (footprint "SamacSys_Parts:SOT95P280X125-3N")
+    )
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/b54c3862-639e-4b03-9fc6-28e0c3c13c33"
+      (reference "R1") (unit 1) (value "0603WAF1201T5E") (footprint "RESC1608X55N")
+    )
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/387af7ca-e53d-469a-b07f-82b61447e23d"
+      (reference "R2") (unit 1) (value "RC0603FR-071KL") (footprint "SamacSys_Parts:RESC1608X55N")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/00000000-0000-0000-0000-0000622b9939"
       (reference "R3") (unit 1) (value "10k") (footprint "SamacSys_Parts:RESC1608X55N")
@@ -2320,38 +2293,11 @@
     (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/21a9a1b9-a706-483c-85f8-0ff7087c045e"
       (reference "R13") (unit 1) (value "RC0603FR-071KL") (footprint "SamacSys_Parts:RESC1608X55N")
     )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/4a4f4d46-2e1f-4ad9-9e23-2eb94bea6a92"
-      (reference "R14") (unit 1) (value "0603WAF270JT5E") (footprint "RESC1608X55N")
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/8baa192b-4160-42bf-bc51-efef9bbea56e"
+      (reference "R14") (unit 1) (value "RC0603FR-071KL") (footprint "SamacSys_Parts:RESC1608X55N")
     )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/3b9b8270-8548-4508-97fd-ea0028a8c5e3"
-      (reference "R15") (unit 1) (value "0603WAF270JT5E") (footprint "RESC1608X55N")
-    )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/1436a783-6564-4cf1-b04a-2e5a11e5eb64"
-      (reference "TP1") (unit 1) (value "5017") (footprint "SamacSys_Parts_Power:5017")
-    )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/78db18b7-3021-4c7d-8eeb-c64190437128"
-      (reference "TP2") (unit 1) (value "5017") (footprint "SamacSys_Parts_Power:5017")
-    )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/c3a39680-eeb2-4335-a2ec-8069212537b9"
-      (reference "TP3") (unit 1) (value "5017") (footprint "SamacSys_Parts_Power:5017")
-    )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/a77bb222-c166-42e5-bfb6-754e3ca9e305"
-      (reference "TP4") (unit 1) (value "5017") (footprint "SamacSys_Parts_Power:5017")
-    )
-    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/5fad89a0-a44d-4cac-9504-c599006cca0c"
-      (reference "TP5") (unit 1) (value "5017") (footprint "SamacSys_Parts_Power:5017")
-    )
-    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/642e42b0-1390-44a8-afeb-cafaffa8345a"
-      (reference "TP6") (unit 1) (value "5017") (footprint "SamacSys_Parts_Power:5017")
-    )
-    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/746ccff9-05ff-4207-9a90-c9a36a5eb68b"
-      (reference "TP7") (unit 1) (value "5017") (footprint "SamacSys_Parts_Power:5017")
-    )
-    (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/146ce59e-e565-477c-b40e-8afd6e34b83b"
-      (reference "TP8") (unit 1) (value "5017") (footprint "SamacSys_Parts_Power:5017")
-    )
-    (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/6a74fea4-e4d5-44de-89c1-4edd21e1ebd8"
-      (reference "TP9") (unit 1) (value "5017") (footprint "SamacSys_Parts_Power:5017")
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/13737581-7dfd-4db0-80d0-2e29b2627948"
+      (reference "U1") (unit 1) (value "HT75xx-1-SOT89") (footprint "Package_TO_SOT_SMD:SOT-89-3")
     )
   )
 )
