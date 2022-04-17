@@ -2183,7 +2183,7 @@
       (reference "C12") (unit 1) (value "CL10A335KP8NNNC") (footprint "SamacSys_Parts:CAPC1608X90N")
     )
     (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/a119d1c0-bda9-4de4-a6c0-6d931cfaa90b"
-      (reference "C13") (unit 1) (value "CC0603KRX7R9BB104") (footprint "CAPC1608X90N")
+      (reference "C13") (unit 1) (value "CC0603KRX7R9BB104") (footprint "SamacSys_Parts:CAPC1608X90N")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/90f2c5ac-d7b5-47bc-8f31-797397d14ce6"
       (reference "D1") (unit 1) (value "SS14") (footprint "SamacSys_Parts:DIOM5227X270N")
@@ -2216,22 +2216,22 @@
       (reference "J4") (unit 1) (value "Conn_01x33_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x33_P2.54mm_Vertical")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/7b58219a-a31d-4ba4-804a-77c6d706d8bc"
-      (reference "J5") (unit 1) (value "47346-0001") (footprint "SamacSys_Parts_Microcontroller:47346-0001")
+      (reference "J5") (unit 1) (value "47346-0001") (footprint "SamacSys_Parts:47346-0001")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/e98fb1e9-dcb3-4943-b5e9-ac5075fe1d4f"
-      (reference "J6") (unit 1) (value "PZ254V-11-02P") (footprint "SamacSys_Parts_Power:HDRV2W64P0X254_1X2_508X250X873P")
+      (reference "J6") (unit 1) (value "PZ254V-11-02P") (footprint "SamacSys_Parts:HDRV2W64P0X254_1X2_508X250X873P")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/256e0a62-8fb7-4627-997d-73a62ec933ee"
-      (reference "J7") (unit 1) (value "PZ254V-11-02P") (footprint "SamacSys_Parts_Power:HDRV2W64P0X254_1X2_508X250X873P")
+      (reference "J7") (unit 1) (value "PZ254V-11-02P") (footprint "SamacSys_Parts:HDRV2W64P0X254_1X2_508X250X873P")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/6a53337e-604d-407f-8af1-7c711419ee86"
-      (reference "J8") (unit 1) (value "MTP125-1103S1") (footprint "SamacSys_Parts_Power:HDRV3W64P0X254_1X3_762X250X885P")
+      (reference "J8") (unit 1) (value "MTP125-1103S1") (footprint "SamacSys_Parts:HDRV3W64P0X254_1X3_762X250X885P")
     )
     (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/8cdb0859-c152-438f-a411-753aa02c1177"
-      (reference "J9") (unit 1) (value "PZ254V-11-02P") (footprint "SamacSys_Parts_Power:HDRV2W64P0X254_1X2_508X250X873P")
+      (reference "J9") (unit 1) (value "PZ254V-11-02P") (footprint "SamacSys_Parts:HDRV2W64P0X254_1X2_508X250X873P")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/f84157e2-72ff-4eca-a8ee-755ceb68d769"
-      (reference "J10") (unit 1) (value "PZ254V-11-02P") (footprint "SamacSys_Parts_Power:HDRV2W64P0X254_1X2_508X250X873P")
+      (reference "J10") (unit 1) (value "PZ254V-11-02P") (footprint "SamacSys_Parts:HDRV2W64P0X254_1X2_508X250X873P")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/3cf4075b-b6e0-4319-9812-ab72037bc4ea"
       (reference "J11") (unit 1) (value "ICH-340-CTT") (footprint "SamacSys_Parts:DIPS762W74P254L5080H338Q40N")
@@ -2255,7 +2255,7 @@
       (reference "Q1") (unit 1) (value "AO3401A") (footprint "SamacSys_Parts:SOT95P280X125-3N")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/b54c3862-639e-4b03-9fc6-28e0c3c13c33"
-      (reference "R1") (unit 1) (value "0603WAF1201T5E") (footprint "RESC1608X55N")
+      (reference "R1") (unit 1) (value "0603WAF1201T5E") (footprint "SamacSys_Parts:RESC1608X55N")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/387af7ca-e53d-469a-b07f-82b61447e23d"
       (reference "R2") (unit 1) (value "RC0603FR-071KL") (footprint "SamacSys_Parts:RESC1608X55N")
