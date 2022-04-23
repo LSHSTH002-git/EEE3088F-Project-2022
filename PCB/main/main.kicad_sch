@@ -2245,6 +2245,9 @@
     (path "/6faa355f-9d08-4dfa-b3e6-58b461b2063e/bb6350f8-b748-4831-b014-bb709266a462"
       (reference "J14") (unit 1) (value "MTP125-1103S1") (footprint "SamacSys_Parts:HDRV3W64P0X254_1X3_762X250X885P")
     )
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/f1179a67-d1ba-46fa-9992-f81f13f51701"
+      (reference "J15") (unit 1) (value "MTP125-1103S1") (footprint "SamacSys_Parts:HDRV3W64P0X254_1X3_762X250X885P")
+    )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/909e76d0-cd1f-4a19-9b71-c0b467c41125"
       (reference "LED1") (unit 1) (value "19-217_GHC-YR1S2_3T") (footprint "SamacSys_Parts:LEDC1608X50N")
     )
