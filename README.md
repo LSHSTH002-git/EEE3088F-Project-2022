@@ -1,4 +1,4 @@
-# EEE3088F_2022_Templating
+# EEE3088F_2022: Group 15 light sensor HAT project
 
 A repo that demonstrates a useful git repo configuration for archiving a KiCAD project for EEE3088F 2022.
 

@@ -1,3 +1,4 @@
+
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
@@ -21,7 +22,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+#include "string.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -58,7 +59,15 @@ static void MX_USART1_UART_Init(void);
 
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
-
+//General purpose Function to send a char array over the UART and to automatically send a new line character after it
+void debugPrintln(UART_HandleTypeDef *uart_handle,
+char _out[]){
+	HAL_UART_Transmit(uart_handle, (uint8_t *) _out,
+strlen(_out), 60);
+	char newline[2] = "\r\n";
+	HAL_UART_Transmit(uart_handle, (uint8_t *)
+newline, 2, 10);
+}
 /* USER CODE END 0 */
 
 /**
@@ -101,7 +110,11 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
-
+	   //Demo sending data over UART2 to Laptop
+	   debugPrintln(&huart1, "Hello, this is STMF0 Discovery board"); // print full line
+	   //Flash Blue LED
+	   HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_8);
+	   HAL_Delay(1000);
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
