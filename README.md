@@ -4,6 +4,8 @@ In this guide we will learn to use the LIGHT SENSOR HAT that is used to detect e
 
 This Sensor is primarily designed for farmers that want to monitor their live stock and prevent thieves from stealing them.
 
+![IMG_20220523_134553](/uploads/97ab5ffd2de919c8a2e106609e557048/IMG_20220523_134553.jpg)
+
 # What you will need
 1. You will need an STM32f0discovery board
 
@@ -21,6 +23,8 @@ This Sensor is primarily designed for farmers that want to monitor their live st
 
 8. The HAT code
 
+9. The HAT pcb Board
+
 
 # Setting up the System
 
@@ -29,7 +33,9 @@ connect the STM32f0discovery board to your laptop using the Mini USB type A cabl
 connect the light sensor HAT to your Laptop using Micro usb type B male connector and you should see two LED's light up
 run the HAT code on your pc using STM32CubeIDE 
 if you cover up the Light sensor HAT, the Blue LED on the STM32f0discovery board should blink
+![IMG_20220523_133359](/uploads/51c434483edaabd3ab57b9eb2ba9af4e/IMG_20220523_133359.jpg)
 if you stop covering the Light sensor HAT the blue LED should stop blinking.
+![IMG_20220523_133429](/uploads/55d71a0d62ce85783d6be1b8906a19d6/IMG_20220523_133429.jpg)
 
 # License
 [Creative Commons Attribution 4.0 International license](https://choosealicense.com/licenses/cc-by-4.0/)
